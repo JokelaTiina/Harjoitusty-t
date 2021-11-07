@@ -1,0 +1,103 @@
+Arvo 1: 1.0
+Pienin on nyt 1.0
+Arvo 2: 5.0
+Arvo 1: -1.0
+Pienin on nyt -1.0
+Arvo 2: 3.0
+Arvo 1: -1.0
+Pienin on nyt -1.0
+Arvo 2: 3.0
+Arvo 1: 8.0
+Arvo 2: 4.0
+Pienin on nyt 4.0
+Arvo 3: 19.0
+Arvo 4: -7.0
+Pienin on nyt -7.0
+Arvo 5: -7.0
+Arvo 6: -5.0
+Arvo 7: 17.0
+Arvo 8: 9.0
+Arvo 9: 15.0
+Arvo 10: -1.0
+Arvo 11: 9.0
+Arvo 12: -5.0
+Arvo 13: 14.0
+Arvo 14: 9.0
+Arvo 15: -8.0
+Pienin on nyt -8.0
+Arvo 16: 16.0
+Arvo 17: 5.0
+Arvo 18: 9.0
+Arvo 1: -6.0
+Arvo 2: 5.0
+Arvo 3: 12.0
+Arvo 4: 15.0
+Arvo 5: -5.0
+Arvo 6: -2.0
+Arvo 7: 14.0
+Arvo 8: -6.0
+Arvo 9: 2.0
+Arvo 10: 19.0
+Arvo 11: 4.0
+Arvo 12: -3.0
+Arvo 1: 16.0
+Arvo 2: 13.0
+Arvo 3: 10.0
+Arvo 4: -9.0
+Pienin on nyt -9.0
+Arvo 5: 19.0
+Arvo 6: 15.0
+Arvo 7: 13.0
+Arvo 8: 4.0
+Arvo 9: 8.0
+Arvo 10: 11.0
+Arvo 11: 13.0
+Arvo 12: 18.0
+Arvo 13: -9.0
+Arvo 14: -6.0
+Arvo 15: 15.0
+Arvo 16: 5.0
+Arvo 17: 7.0
+Arvo 18: -7.0
+Arvo 1: -6.0
+Pienin on nyt -6.0
+Arvo 2: -9.0
+Pienin on nyt -9.0
+Arvo 3: 9.0
+Arvo 4: 9.0
+Arvo 5: 7.0
+Arvo 6: 2.0
+Arvo 7: -3.0
+Arvo 8: 2.0
+Arvo 9: -3.0
+Arvo 10: 8.0
+Arvo 11: 4.0
+Arvo 12: 19.0
+Arvo 13: 11.0
+Arvo 14: 13.0
+Arvo 1: 20.0
+Arvo 2: 12.0
+Arvo 3: 19.0
+Arvo 4: 5.0
+Pienin on nyt 5.0
+Arvo 5: 16.0
+Arvo 6: 9.0
+Arvo 7: 14.0
+Arvo 8: -2.0
+Pienin on nyt -2.0
+Arvo 9: 3.0
+Arvo 10: 8.0
+Arvo 11: 6.0
+Arvo 12: 7.0
+Arvo 13: -4.0
+Pienin on nyt -4.0
+Arvo 14: 17.0
+Arvo 15: 5.0
+Arvo 16: 6.0
+Arvo 17: 16.0
+Arvo 1: 7.0
+Tuote: olut
+Historia: [2.0, 7.0]
+Suurin tuotem‰‰r‰: 7.0
+Pienin tuotem‰‰r‰: 2.0
+Keskiarvo: 4.5
